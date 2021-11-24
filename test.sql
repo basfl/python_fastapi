@@ -1,0 +1,1 @@
+select posts.*,count(votes.post_id) from posts left join votes on posts.owner_id=votes.user_id group by posts.id

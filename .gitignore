@@ -1,0 +1,5 @@
+.env
+__pycache__
+venv/
+alembic-resource.txt
+resource.txt
