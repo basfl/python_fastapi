@@ -31,8 +31,10 @@
 
 # Heroku :
   # project URL : 
-  * [project URL](https://git.heroku.com/basfl-fastapi.git)
+  * [project URL](https://basfl-fastapi.herokuapp.com/)
   
   # commands :
     * heroku create {}
     * git push heroku 
+    * heroku addons:create heroku-postgresql:hobby-dev
+    * heroku ps:restart
