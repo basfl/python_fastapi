@@ -6,7 +6,7 @@ from .database import engine
 
 
 # not necessarily need this since using alembic
-models.Base.metadata.create_all(bind=engine)
+# models.Base.metadata.create_all(bind=engine)
 app = FastAPI()
 
 origins=["*"]
