@@ -28,3 +28,11 @@
     * alembic revision -m {msg}
     * alembic upgrade {revisionId}
     * alembic revision --autogenerate  -m "auto_vote"
+
+# Heroku :
+  # project URL : 
+  * [project URL](https://git.heroku.com/basfl-fastapi.git)
+  
+  # commands :
+    * heroku create {}
+    * git push heroku 
