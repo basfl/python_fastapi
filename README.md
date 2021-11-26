@@ -32,6 +32,7 @@
 # Heroku :
   # project URL : 
   * [project URL](https://basfl-fastapi.herokuapp.com/)
+  * [api documentation](https://basfl-fastapi.herokuapp.com/docs)
   
   # commands :
     * heroku create {}
