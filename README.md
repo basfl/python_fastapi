@@ -39,3 +39,9 @@
     * git push heroku 
     * heroku addons:create heroku-postgresql:hobby-dev
     * heroku ps:restart
+
+# Docker :
+  *  DEV :
+      *  docker-compose -f docker-compose-dev.yml up 
+  * PROD :
+    * docker-compose -f docker-compose-prod.yml up
