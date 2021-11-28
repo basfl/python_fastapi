@@ -45,3 +45,6 @@
       *  docker-compose -f docker-compose-dev.yml up 
   * PROD :
     * docker-compose -f docker-compose-prod.yml up
+
+# Testing :
+ * pytest -v -s 
